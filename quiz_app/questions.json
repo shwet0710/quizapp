@@ -1,0 +1,18 @@
+[
+  {
+    "question": "WHAT IS UR NAME?",
+    "choice1": "NHI PATA",
+    "choice2": "KYA KAROGE JAAN KE",
+    "choice3": "NAAM ME KYA RAKHA HAI",
+    "choice4": "NHI BATAYENGE",
+    "answer": 4
+  },
+  {
+    "question": "WHO R U?",
+    "choice1": "NHI PATA",
+    "choice2": "KYA KAROGE JAAN KE",
+    "choice3": "TERA BAAP",
+    "choice4": "NHI BATAYENGE",
+    "answer": 3
+  }
+]
